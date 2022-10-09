@@ -540,7 +540,7 @@ To create a production build, use npm run build.
 
 ![Screen Shot 2022-10-06 at 10 08 26 AM](https://user-images.githubusercontent.com/15346823/194375753-4c5de0cd-eaf3-4ba7-8e25-efe8e082fa93.png)
 
-Tweetéame [@camiinthisthang](https://twitter.com/camiinthisthang) y hazme saber que acabas de construir una dapp en Fuel, puede que te inviten a un grupo privado de constructores, que te inviten a la próxima cena de Fuel, que te den una alfa en el proyecto, o algo 👀.
+Tweetéanos a [@camiinthisthang](https://twitter.com/camiinthisthang) y a mi [@andrwmayorca](https://twitter.com/andrwmayorca) y haznos saber que acabas de construir una dapp en Fuel, puede que te inviten a un grupo privado de constructores, que te inviten a la próxima cena de Fuel, que te den una alfa en el proyecto, o algo 👀.
 
 >Nota: Para subir este proyecto a un repo de github, tendrás que eliminar el archivo `.git` que se crea automáticamente con `create-react-app`. Puedes hacerlo ejecutando el siguiente comando en `Web3RSVP/frontend`: `Rm -rf .git`. Entonces, estarás bien para añadir, confirmar y empujar estos archivos.
 
